@@ -2,3 +2,6 @@ scikit-learn
 pandas
 numpy
 plotly
+keras
+seaborn
+umap-learn
