@@ -5,3 +5,4 @@ plotly
 keras
 seaborn
 umap-learn
+matplotlib
