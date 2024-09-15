@@ -6,3 +6,4 @@ keras
 seaborn
 umap-learn
 matplotlib
+scipy
